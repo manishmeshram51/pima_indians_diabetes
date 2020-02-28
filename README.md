@@ -1,6 +1,9 @@
 # pima_indians_diabetes
 To predict if a person has diabetes or not usind deep learning.
 
+used tools:
+tf, keras, colab
+
 link:
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
@@ -22,3 +25,8 @@ Input Variables (X):
 Output Variables (y):
 Class variable (0 or 1)
 
+Activation function used:
+relu and sigmoid
+
+Accuracy:
+80% +
