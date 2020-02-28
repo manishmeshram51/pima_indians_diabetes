@@ -1,5 +1,5 @@
 # pima_indians_diabetes
-To predict if a person has diabetes or not usind deep learning.
+basic deep learning project To predict if a person has diabetes or not usind deep learning.
 
 used tools:
 tf, keras, colab
